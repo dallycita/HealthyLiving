@@ -9,7 +9,7 @@
 # OS
 .DS_Store
 
-# Config local
+# Config local (no subir credenciales/rutas locales)
 local.properties
 
 # Artefactos
