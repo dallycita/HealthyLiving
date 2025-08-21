@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+**/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Config local (no subir credenciales/rutas locales)
+local.properties
+
+# Artefactos
+*.apk
+*.aab
+*.keystore
+
+# Kotlin plugin cache
+.kotlin/
